@@ -158,8 +158,4 @@ Pada praktikum ini, mahasiswa mempelajari:
 3. Penggunaan `else`, `finally`, dan `raise`.
 4. Penanganan banyak jenis error.
 5. Teknik melewati error dalam loop.
-6. Penerapan exception handling pada studi kasus nyata.
-
----
-
-Jika ingin, saya bisa membuatkan **versi PDF**, **versi laporan resmi**, atau **menambahkan screenshot input-output**.
+6. Penerapan exception handling pada studi kasus nyata
